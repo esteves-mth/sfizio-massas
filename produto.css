@@ -10,7 +10,7 @@ header{
 }
 
 header .imagotipo{
-    background: url("/imagotipo2.png");
+    background: url("/img/imagotipo2.png");
     width: 249px;
     height: 79px;
     margin-left: 8%;
@@ -71,7 +71,7 @@ main{
 }
 
 .spcar::before {
-    content: url("/shopping-cart.png");
+    content: url("/img/shopping-cart.png");
     width: 24px;
     height: 24px;
 }
@@ -87,7 +87,7 @@ main{
 }
 
 .prato {
-    background: url("/comida15.png");
+background: url("/img/comida15.png");
     width: 70%;
     height: 50vh;
     background-size: cover;
@@ -149,14 +149,14 @@ main{
     content:"";
     width:45px;
     height:45px;
-    background:url("/bay1.png") center/contain no-repeat;
+    background:url("/img//bay1.png") center/contain no-repeat;
 }
 
 .b2::before{
     content:"";
     width:45px;
     height:45px;
-    background:url("/bay3.png") center/contain no-repeat;
+    background:url("/img//bay3.png") center/contain no-repeat;
 }
 
 section{
@@ -204,13 +204,13 @@ section h1{
 .prato1i{
     width:280px;
     height:180px;
-    background:url("/comida2.png") center/cover;
+    background:url("/img//comida2.png") center/cover;
 }
 
 .prato2i{
     width:280px;
     height:180px;
-    background:url("/comida9.png") center/cover;
+    background:url("/img//comida9.png") center/cover;
 }
 
 .prato1 h4,
@@ -283,7 +283,7 @@ footer .copy{
 }
 
 .imagotipofo{
-    background: url("/imagotipo2.png");
+    background: url("/img/imagotipo2.png");
     width: 249px;
     height: 79px;
     grid-column: 1/3;
